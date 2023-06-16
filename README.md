@@ -1,1 +1,1 @@
-# ochouikh
+<img src="https://badge.mediaplus.ma/binary/ochouikh" alt="ochouikh's 42 stats" />
