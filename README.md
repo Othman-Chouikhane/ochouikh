@@ -1,5 +1,6 @@
 <img src="https://badge.mediaplus.ma/binary/ochouikh" alt="ochouikh's 42 stats" />
-# 💫 About Me:
+
+## 💫 About Me:
 Hi, I'm Othmane, an aspiring Software Developer with a passion for building scalable, distributed web applications. I'm currently a student at 1337 coding school, where I've gained strong expertise in React.js, HTML, CSS, JavaScript, and TypeScript for front-end development, as well as C++ and Docker for software engineering.<br>I'm always eager to learn new technologies and collaborate on exciting projects, especially those involving distributed systems, optimization, and scalability.<br>Feel free to check out my repositories or reach out if you want to collaborate! 🚀<br>🌱 I’m currently learning MERN Stack to be FullStack developer
 
 
